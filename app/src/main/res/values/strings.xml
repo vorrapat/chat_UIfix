@@ -1,0 +1,8 @@
+<resources>
+    <string name="root_url">http://192.168.1.102:3000/</string>
+    <string name="gpt_url">chat/post/</string>
+    <string name="gpt_show_url">chat/show/</string>
+
+    <string name="app_name">ChatGPT</string>
+
+</resources>
