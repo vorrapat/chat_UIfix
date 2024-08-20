@@ -28,7 +28,7 @@
 
     <LinearLayout
         android:orientation="horizontal"
-        android:layout_width="300dp"
+        android:layout_width="350dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginLeft="5dp">
@@ -36,8 +36,8 @@
             android:id="@+id/textViewMessage"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:maxWidth="250dp"
-            android:text="สวัสดีครับ"
+            android:maxWidth="290dp"
+            android:text="กรุงเทพมหานคร เมืองแห่งความหลากหลายทางวัฒนธรรมและความทันสมัย"
             android:background="@drawable/chat_message_gpt"
             android:padding="15dp"
             android:textSize="14sp" />
